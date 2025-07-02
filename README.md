@@ -42,4 +42,3 @@ despezzas-appium-tests/
 └── target/                                      \# Diretório de build (gerado pelo Maven)
 
 ```
-```
